@@ -46,14 +46,14 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: PRAVEEN RAJ R
+### Name: BINDHUJAA S 
 
-### Register Number: 212224230207
+### Register Number: 212224230038
 
 ```python
 
-# Name: PRAVEEN RAJ R
-# Register Number: 212224230207
+# Name: BINDHUJAA S
+# Register Number: 212224230038
 class NeuralNet(nn.Module):
   def __init__(self):
         super().__init__()
