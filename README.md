@@ -16,7 +16,7 @@ As training progresses, the loss decreases, showing that the model learns the re
 
 
 ## Neural Network Model
-Include the neural network model diagram.
+
 <img width="1078" height="624" alt="Screenshot 2026-04-20 143444" src="https://github.com/user-attachments/assets/a3a57740-44b9-4679-95c8-078c50511673" />
 
 
@@ -103,17 +103,17 @@ def train_model(lig, X_train, y_train, criterion, optimizer, epochs=2000):
 ```
 
 ### Dataset Information
-Include screenshot of the generated data
+
 <img width="217" height="480" alt="image" src="https://github.com/user-attachments/assets/504f93af-5ffe-4bda-bdec-6b9738fb2dff" />
 <img width="473" height="254" alt="image" src="https://github.com/user-attachments/assets/90e88516-3ab0-4ae1-aff0-1cd58dce6ee2" />
 
 ### OUTPUT
 ### Training Loss Vs Iteration Plot
-Include your plot here
+
 <img width="774" height="596" alt="image" src="https://github.com/user-attachments/assets/7531a61f-1514-481a-87cb-5fe0f72b2582" />
 
 ### New Sample Data Prediction
-Include your sample input and output here
+
 <img width="325" height="53" alt="image" src="https://github.com/user-attachments/assets/e1d90235-03e3-42e4-a9bf-ee67e029f1d8" />
 
 
