@@ -4,7 +4,16 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+A Neural Network Regression Model is used to predict continuous numerical values from input data. In this experiment, a neural network is developed using PyTorch to learn the relationship between one numeric input and one numeric output.
+
+The neural network consists of an input layer, hidden layers, and an output layer. The input layer receives the data, hidden layers perform computations using weights and activation functions, and the output layer produces the predicted value.
+
+The model uses Linear layers and ReLU activation functions. Mean Squared Error (MSE) is used as the loss function to measure prediction error, and the Adam optimizer updates the weights to reduce the loss during training.
+
+The dataset is split into training and testing data. MinMaxScaler is used to normalize the data for better performance. During training, the network performs forward propagation to generate predictions and backward propagation to compute gradients and update weights.
+
+As training progresses, the loss decreases, showing that the model learns the relationship between input and output values effectively. Thus, the neural network regression model can predict continuous values accurately for new input data.
+
 
 ## Neural Network Model
 Include the neural network model diagram.
