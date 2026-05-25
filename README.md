@@ -104,17 +104,20 @@ def train_model(lig, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ### Dataset Information
 
-<img width="217" height="480" alt="image" src="https://github.com/user-attachments/assets/504f93af-5ffe-4bda-bdec-6b9738fb2dff" />
-<img width="473" height="254" alt="image" src="https://github.com/user-attachments/assets/90e88516-3ab0-4ae1-aff0-1cd58dce6ee2" />
+<img width="315" height="265" alt="image" src="https://github.com/user-attachments/assets/e69abfe7-8722-4c07-a9f8-24232f165cfe" />
+<img width="491" height="232" alt="image" src="https://github.com/user-attachments/assets/e127505e-c989-4280-973e-b242860316c3" />
+
 
 ### OUTPUT
 ### Training Loss Vs Iteration Plot
 
-<img width="774" height="596" alt="image" src="https://github.com/user-attachments/assets/7531a61f-1514-481a-87cb-5fe0f72b2582" />
+<img width="905" height="594" alt="image" src="https://github.com/user-attachments/assets/a5634cec-c7b2-4bcb-b836-766095ab4a09" />
+
 
 ### New Sample Data Prediction
 
-<img width="325" height="53" alt="image" src="https://github.com/user-attachments/assets/e1d90235-03e3-42e4-a9bf-ee67e029f1d8" />
+<img width="380" height="45" alt="image" src="https://github.com/user-attachments/assets/81262b95-8d8e-4c10-b04d-fcf1ca94c314" />
+
 
 
 ## RESULT
